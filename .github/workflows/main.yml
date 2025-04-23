@@ -1,4 +1,4 @@
-name: mywebsite780 
+name: s3
 
 on:
  push:
